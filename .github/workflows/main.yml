@@ -29,8 +29,8 @@ jobs:
         env:
           AWS_S3_BUCKET: "user2x2022"
           #AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
-          AWS_ACCESS_KEY_ID: "AKIAUFTMDICRJ4IEEXF4"
+          AWS_ACCESS_KEY_ID: "AKIAUFTMDICRM35V32QV"
           #AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: "Redhat2023"
+          AWS_SECRET_ACCESS_KEY: "Redhat2023!" #R1B0pLOoRLqzJu09lxz0OpCw8oqmPnymH+s2WaNF
           #AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: "us-east-1" # optional: defaults to us-east-1
